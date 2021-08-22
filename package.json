@@ -32,7 +32,7 @@
   },
   "homepage": "https://github.com/silverstripe/silverstripe-campaign-admin",
   "dependencies": {
-    "bootstrap": "^4.3.1",
+    "bootstrap": "^4.6.0",
     "classnames": "^2.2.5",
     "deep-freeze-strict": "^1.1.1",
     "es6-promise": "^3.1.2",
